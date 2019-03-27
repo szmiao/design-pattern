@@ -1,0 +1,7 @@
+
+Prototype（原型）：
+    Product,负责定义用于复制现有实例快来声生成新实例的方法
+ConcretePrototype（具体的原型）：
+    MessageBox、UnderLinePen,负责实现复制现有实例并生成新实例的方法
+Client（使用者）：
+    Manager,负责使用复制实例的方法生成新的实例
