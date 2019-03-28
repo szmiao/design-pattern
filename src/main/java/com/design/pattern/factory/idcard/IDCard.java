@@ -2,9 +2,6 @@ package com.design.pattern.factory.idcard;
 
 import com.design.pattern.factory.framework.Product;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * program: design-pattern
  * description:

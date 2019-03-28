@@ -3,9 +3,7 @@ package com.design.pattern.factory.idcard;
 import com.design.pattern.factory.framework.Factory;
 import com.design.pattern.factory.framework.Product;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**
