@@ -1,0 +1,12 @@
+
+Leaf:
+    File:表示内容的角色，在该角色中不能放入其他对象
+
+Composite(复合物):
+    Directory:表示容器的角色
+
+Component:
+    Entry:使leaf和Composite角色具有一致性的角色
+
+Client:
+    Main:使用Composite模式的角色
