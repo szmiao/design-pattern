@@ -1,0 +1,7 @@
+Mediator(仲裁者、中介者):
+
+ConcreteMediator(具体的中介者): LoginFrame
+
+Colleague(同事): 负责实现Mediator角色的接口
+
+ConcreteColleague(具体的同事)
