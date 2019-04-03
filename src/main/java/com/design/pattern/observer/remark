@@ -1,0 +1,8 @@
+Subject(观察对象): 定义了注册观察者和删除观察者的方法，NumberGenerator
+
+ConcreteSubject(具体的观察对象): RandomNumberGenerator
+
+Observer(观察者):
+
+ConcreteObserver(具体观察者)
+
